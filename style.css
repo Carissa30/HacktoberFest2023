@@ -48,4 +48,5 @@ body {
 #board {
     background-color: #fff; /* Background color of the game board */
     border: 5px solid #000; /* Border color of the game board */
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
